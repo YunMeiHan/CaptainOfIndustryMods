@@ -17,3 +17,4 @@ https://github.com/MaFi-Games/Captain-of-industry-modding
 
 # CONTACT
 YunMeiHan@outlook.com
+Chinese or English

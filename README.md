@@ -8,7 +8,7 @@ Make **Exhaust** storable
 
 # Install
 For XXX mod  
-Build XXX or download XXX.dll  
+Build XXX from code or download XXX.dll from releases  
 Copy to %user%\AppData\Roaming\Captain of Industry\Mods\XXX\  
 Like C:\Users\Administrator\AppData\Roaming\Captain of Industry\Mods\MultiplyStorageCapacity\MultiplyStorageCapacity.dll
 

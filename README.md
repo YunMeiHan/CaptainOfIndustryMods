@@ -7,6 +7,10 @@ The display value of the build menu has not been updated
 Make **Exhaust** storable
 
 # Install
-Download XXX.dll or build the source code  
+For XXX mod  
+Build XXX or download XXX.dll  
 Copy to %user%\AppData\Roaming\Captain of Industry\Mods\XXX\  
 Like C:\Users\Administrator\AppData\Roaming\Captain of Industry\Mods\MultiplyStorageCapacity\MultiplyStorageCapacity.dll
+
+# Reference
+https://github.com/MaFi-Games/Captain-of-industry-modding

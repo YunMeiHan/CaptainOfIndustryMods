@@ -17,8 +17,8 @@ https://github.com/MaFi-Games/Captain-of-industry-modding
 
 # CONTACT
 YunMeiHan@outlook.com  
-Chinese or English
-https://www.buymeacoffee.com/10044196770
-![bmc_qr](https://github.com/YunMeiHan/CaptainOfIndustryMods/assets/39333771/be2c5ee2-ca15-4b42-8ed4-46e3308330bf)
-![IMG_0177](https://github.com/YunMeiHan/CaptainOfIndustryMods/assets/39333771/63d90a39-2bdc-4b5a-9e74-6055a953cac9)
-![IMG_0178](https://github.com/YunMeiHan/CaptainOfIndustryMods/assets/39333771/bf98ecd6-1887-44ce-ba48-98948729d22d)
+Chinese or English  
+https://www.buymeacoffee.com/10044196770  
+<img src ="https://github.com/YunMeiHan/CaptainOfIndustryMods/assets/39333771/be2c5ee2-ca15-4b42-8ed4-46e3308330bf" width = "200">  
+<img src = "https://github.com/YunMeiHan/CaptainOfIndustryMods/assets/39333771/63d90a39-2bdc-4b5a-9e74-6055a953cac9" width = 200>
+<img src = "https://github.com/YunMeiHan/CaptainOfIndustryMods/assets/39333771/bf98ecd6-1887-44ce-ba48-98948729d22d" width = 200>

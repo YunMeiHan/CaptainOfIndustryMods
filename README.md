@@ -1,7 +1,7 @@
 # 工业队长模组 Captain Of Industry Mods
  
 ## 1. 多倍库存 MultiplyStorageCapacity
-4倍存储容量：流体存储器，散装存储器，单元存储器，核废料存储器
+4倍存储容量：流体存储器，散装存储器，单元存储器，核废料存储器  
 4x capacity for all Storages : FluidStorage, LooseStorage, UnitStorage, NuclearWasteStorage  
 建筑菜单显示值仍为原版  
 The display value of the build menu has not been updated  
